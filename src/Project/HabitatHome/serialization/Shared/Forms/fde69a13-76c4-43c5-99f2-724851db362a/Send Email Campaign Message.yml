@@ -1,0 +1,29 @@
+﻿---
+ID: "481f9d91-114a-47d1-b2df-32744144f6bb"
+Parent: "fde69a13-76c4-43c5-99f2-724851db362a"
+Template: "05fe45d4-b9c7-40de-b767-7c5abe7119f9"
+Path: /sitecore/Forms/Habitat Sites/Habitat Home/Test Drive Registration Form/Page/Section/Submit Button/SubmitActions/Send Email Campaign Message
+DB: master
+SharedFields:
+- ID: "5c796924-3f06-4d1f-8510-8ad9a4244477"
+  Hint: Parameters
+  Value: |
+    {"messageId":"6f9cc51b-ccf1-45d6-9228-c71f4b8a9402"}
+- ID: "abc57b6d-5542-4ab9-a889-106225a032e6"
+  Hint: Submit Action
+  Value: "{7B576A74-8FD4-49AB-956A-16AEFB95CC6D}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190510T142232Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

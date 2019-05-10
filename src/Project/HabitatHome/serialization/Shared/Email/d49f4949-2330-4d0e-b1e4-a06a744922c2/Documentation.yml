@@ -1,0 +1,27 @@
+﻿---
+ID: "a9720502-7318-4f1f-b832-e3656ab5820d"
+Parent: "d49f4949-2330-4d0e-b1e4-a06a744922c2"
+Template: "f0818351-eed1-453e-8325-684eeb1a827a"
+Path: "/sitecore/content/Email/Messages/2019/05/10T113637/Test Drive - Reminder - Female/Message Root/Footer/Documentation"
+DB: master
+BranchID: "bdb49a2e-9be1-456f-bebb-4f72da36524e"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{392399C8-71F2-4941-8829-B4A1C954EFEF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190510T122609Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7c79ff2c-9e24-4055-bcd2-f1e72093409f"
+      Hint: Link
+      Value: |
+        <link text="Documentation" linktype="external" url="https://doc.sitecore.net/email_experience_manager" anchor="" target="" />
