@@ -1,0 +1,23 @@
+﻿---
+ID: "eeeed211-3712-414f-b3fa-2b98f5a9f587"
+Parent: "2dd253ac-cd5c-4a7f-96d7-b40f078e4f93"
+Template: "f0818351-eed1-453e-8325-684eeb1a827a"
+Path: "/sitecore/content/Email/Messages/2019/05/10T113637/Test Drive - Reminder - Female/Message Root/Header/About"
+DB: master
+BranchID: "bdb49a2e-9be1-456f-bebb-4f72da36524e"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{8117C9BE-D277-4157-B032-F75FEE8C8B4A}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190510T122607Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

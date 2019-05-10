@@ -1,0 +1,30 @@
+﻿---
+ID: "28ad1b88-13d6-49dc-a9b2-74148cf9c40e"
+Parent: "cc0943d8-dfbc-4a67-9248-a7cb9c64f315"
+Template: "f0818351-eed1-453e-8325-684eeb1a827a"
+Path: "/sitecore/content/Email/Messages/2019/05/10T113637/Test Drive - Special Offer/Message Root/Footer/Unsubscribe from all"
+DB: master
+BranchID: "bdb49a2e-9be1-456f-bebb-4f72da36524e"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{7CDEFF9D-0F47-403C-ABAE-15058B9B5B24}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190510T121425Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7c79ff2c-9e24-4055-bcd2-f1e72093409f"
+      Hint: Link
+      Value: |
+        <link text="Unsubscribe from all" linktype="external" url="/sitecore%20modules/Web/EXM/UnsubscribeFromAll.aspx" anchor="" title="" class="" querystring="" target="" id="" />
