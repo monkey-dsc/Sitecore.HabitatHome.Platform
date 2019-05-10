@@ -14,13 +14,16 @@ SharedFields:
   Value: •
 - ID: "52d572ad-9678-423f-96e2-477528418ba1"
   Hint: "Global Opt-out List"
-  Value: "{CDCDD641-7FFF-472E-A050-0EB117394039}"
+  Value: "cdcdd641-7fff-472e-a050-0eb117394039"
 - ID: "6ce2099a-ab45-40e9-bb59-7ef2f9ba7bfb"
   Hint: Brand Logo
   Value: 
 - ID: "826730f6-4aeb-4fa5-a55b-b02fece73c14"
   Hint: Brand Name
   Value: Habitat Home
+- ID: "943d8e5d-b924-41f8-ba1e-e0b630960e6e"
+  Hint: Preview base URL
+  Value: "https://habitathome.dev.local"
 - ID: "afb3e366-dab4-4e10-b61f-bc3776542bb8"
   Hint: POP3 User Name
   Value: admin
@@ -328,9 +331,15 @@ Languages:
     - ID: "0f383cd8-c031-4a9d-9ed0-d55217f91287"
       Hint: From Address
       Value: noreply@habitathomedemo.com
+    - ID: "15b8e428-a2d3-4736-8708-3b6ce509aa86"
+      Hint: Reply To
+      Value: noreply@habitathomedemo.com
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20180103T182134Z
+    - ID: "69aad409-ca36-4767-b945-abb77f3611fd"
+      Hint: From Name
+      Value: Habitat Home
     - ID: "85fdc8e9-0ac4-4c70-b5a7-5d17451c1e5a"
       Hint: Preference Center Title
       Value: Email Preference Center

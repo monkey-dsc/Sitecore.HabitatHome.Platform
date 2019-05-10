@@ -185,9 +185,7 @@
     <Content Include="App_Config\Include\Feature\Feature.CRM.config">
       <SubType>Designer</SubType>
     </Content>
-    <Content Include="App_Config\Include\Feature\Feature.CRM.Serialization.config">
-      <SubType>Designer</SubType>
-    </Content>
+    <Content Include="App_Config\Include\Feature\Feature.Crm.Serialization.config" />
     <None Include="web.azure.config.xdt" />
     <None Include="web.config.xdt">
       <SubType>Designer</SubType>
