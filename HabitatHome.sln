@@ -101,6 +101,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.HabitatHome.Global
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.HabitatHome.Corporate.Website", "src\Project\HabitatHomeCorporate\code\Sitecore.HabitatHome.Corporate.Website.csproj", "{EDBE2FC4-3D91-4B8F-AD00-990CF1A31118}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MarketingAutomation", "MarketingAutomation", "{00FD53FC-709C-4CB8-968A-76E65FD0CBE6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -280,6 +282,7 @@ Global
 		{A870BED9-A0B7-4E07-A44E-8E16B95D6911} = {1C753343-4705-493B-9654-2E643373663E}
 		{73A57FBE-7088-4344-87DC-23B01B504EC9} = {85186717-7A62-48A7-869B-C47DF85B6273}
 		{EDBE2FC4-3D91-4B8F-AD00-990CF1A31118} = {8D70A344-BC6E-4BF9-9906-13C4EAEA3535}
+		{00FD53FC-709C-4CB8-968A-76E65FD0CBE6} = {37394D96-A276-41B7-BFC0-E0897AFE4690}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {25D35D77-3A23-45B8-BF1A-F9EB5B3B318F}

@@ -33,8 +33,8 @@
     </appSettings>
 
     <system.webServer>
-        <rewrite xdt:Transform="InsertIfMissing" >
-            <rules xdt:Transform="InsertIfMissing" >
+        <rewrite xdt:Transform="InsertIfMissing">
+            <rules xdt:Transform="InsertIfMissing">
                 <rule name="HTTP/S to HTTPS Redirect" enabled="true" stopProcessing="true" xdt:Transform="InsertIfMissing" xdt:Locator="Match(name)">
                     <match url="(.*)" />
                     <conditions logicalGrouping="MatchAll">
