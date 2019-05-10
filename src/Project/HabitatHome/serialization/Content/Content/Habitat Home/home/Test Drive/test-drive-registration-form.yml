@@ -22,8 +22,10 @@ SharedFields:
         <r
           uid="{A92DBC87-764A-4BEC-BBC9-D83EAFC3CA1B}"
           p:before="*"
-          s:ds="{803C44E2-8D61-437C-BD0A-EEBAC55EBEF8}"
+          s:cnd=""
+          s:ds="{99C690BD-C491-4CB3-8BF7-70631EE9B9B7}"
           s:id="{6B5B0FE6-5C85-4487-BA7E-F8C2ECC186A8}"
+          s:mvt=""
           s:par=""
           s:ph="/main/sxa-empty/container-1/column-3-3/sitecoreFormsWrapper-4" />
         <r
@@ -49,22 +51,13 @@ SharedFields:
           s:par="GridParameters=%7B113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2%7D&amp;FieldNames&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2"
           s:ph="/main/sxa-empty/container-1" />
         <r
-          uid="{927271C8-1BB7-4DB7-B32C-BF9811115618}"
-          p:after="r[@uid='{3C8A8C9C-B3DF-4AAC-A7AB-AA2E6A07122E}']"
-          s:cnd=""
-          s:ds=""
-          s:id="{99A633FC-B9A9-44A0-B78A-BCBB08DD02C9}"
-          s:mvt=""
-          s:par="GridParameters=%7B113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2%7D&amp;FieldNames=%7BF9C4EC6A-4DF4-4263-A2F5-DF88166ECD40%7D&amp;Styles=%7BAC323A2C-7301-4523-B005-9D4F3CCB2ABC%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;Personalization&amp;Tests"
-          s:ph="/main/sxa-empty/container-1" />
-        <r
           uid="{8BD6A550-7679-4EC4-8176-A0BD14B08CB5}"
-          p:after="r[@uid='{927271C8-1BB7-4DB7-B32C-BF9811115618}']"
+          p:after="r[@uid='{3C8A8C9C-B3DF-4AAC-A7AB-AA2E6A07122E}']"
           s:cnd=""
           s:ds="local:/Data/Text 1"
           s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
           s:mvt=""
-          s:par="GridParameters=%7B113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2%7D&amp;FieldNames=%7B7EEB8FEA-78CB-4571-8F1C-BC86415BF502%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;Personalization&amp;Tests"
+          s:par="GridParameters=%7B113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2%7D&amp;FieldNames=%7B7EEB8FEA-78CB-4571-8F1C-BC86415BF502%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier"
           s:ph="/main/sxa-empty/container-1" />
         <r
           uid="{A62219C6-60AC-46E0-B5D0-66321EE4631F}"

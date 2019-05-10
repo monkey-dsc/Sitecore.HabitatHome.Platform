@@ -18,7 +18,7 @@ Languages:
     - ID: "9c385368-a554-4a92-9a8d-37f3ef3a09f4"
       Hint: HeroImage
       Value: |
-        <image mediaid="{D3B42F83-162C-4B3C-911F-1626E8969C55}" height="" hspace="" width="" alt="Connected Home Hero Image" vspace="" />
+        <image mediaid="{0616495D-A740-4EA5-921A-DB41C236CB67}" height="" hspace="" width="" alt="Connected Home Hero Image" vspace="" />
     - ID: "af73cf76-4e8a-46b0-9403-bcea092724ef"
       Hint: HeroSupertitle
       Value: Concept Car Test Drive
