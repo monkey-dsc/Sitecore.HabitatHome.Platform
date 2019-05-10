@@ -330,7 +330,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Config\Include\Feature\Sitecore.HabitatHome.Feature.MA\Sitecore.HabitatHome.Feature.MA.config" />
+    <Content Include="App_Config\Include\Feature\Sitecore.HabitatHome.Feature.MA\Sitecore.HabitatHome.Feature.MA.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="App_Config\Include\Feature\Sitecore.HabitatHome.Feature.MA\Sitecore.HabitatHome.FeatureMA.Serialization.config" />
     <Content Include="Models\Sitecore.HabitatHome.Feature.MarketingAutomation.Models.TestDriveModel, 0.1.json" />
     <Content Include="App_Config\Sitecore\XConnect.Client.Configuration\Sitecore.HabitatHome.Feature.MA.config">
