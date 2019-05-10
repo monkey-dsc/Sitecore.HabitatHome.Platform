@@ -1,0 +1,30 @@
+﻿---
+ID: "f9cc9aba-1a7b-4916-aa37-2dfbcac39721"
+Parent: "55796552-bb5a-4fba-9b8f-1b26cf03b9f3"
+Template: "24d19d8f-907b-47b7-9703-6174e760bd91"
+Path: "/sitecore/content/Email/Messages/2019/05/10T113637/Test Drive - Confirmation/Message Root/Call to Action"
+DB: master
+BranchID: "bdb49a2e-9be1-456f-bebb-4f72da36524e"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{773CF277-B451-47E2-9C33-F0434C25C2E8}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "18b3ef15-ec40-46fe-b03d-26cb3db243cb"
+      Hint: Image
+      Value: |
+        <image mediaid="{9799CA59-994D-4D89-B33F-CB6999BC4570}" />
+    - ID: "1cf3991c-c953-441c-8fe0-0bf26af4b560"
+      Hint: Heading
+      Value: Test Drive Confirmation
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190510T120104Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

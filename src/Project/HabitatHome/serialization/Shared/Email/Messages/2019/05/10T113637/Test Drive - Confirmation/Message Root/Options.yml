@@ -1,0 +1,26 @@
+﻿---
+ID: "92c764b5-8986-4cb6-abf0-8e5d8c71859d"
+Parent: "55796552-bb5a-4fba-9b8f-1b26cf03b9f3"
+Template: "957ac850-52c7-4add-907b-7d557eb6b14f"
+Path: "/sitecore/content/Email/Messages/2019/05/10T113637/Test Drive - Confirmation/Message Root/Options"
+DB: master
+BranchID: "bdb49a2e-9be1-456f-bebb-4f72da36524e"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{B33B6D2F-071A-4827-BE22-155CE1E00D88}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190510T120106Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,33 @@
+{
+  "Name": "TestDriveModel",
+  "Version": "0.1",
+  "References": [
+    {
+      "Name": "XConnect",
+      "Version": "1.0"
+    },
+    {
+      "Name": "Sitecore.XConnect.Collection.Model",
+      "Version": "9.0"
+    }
+  ],
+  "Types": {
+    "Sitecore.HabitatHome.Feature.MarketingAutomation.Facets.TestDrive": {
+      "Type": "Facet",
+      "BaseType": "Sitecore.XConnect.Facet",
+      "ClrType": "Sitecore.HabitatHome.Feature.MarketingAutomation.Facets.TestDrive, Sitecore.HabitatHome.Feature.MarketingAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Properties": {
+        "TestDriveDate": {
+          "Type": "DateTime"
+        }
+      }
+    }
+  },
+  "Facets": [
+    {
+      "Target": "Contact",
+      "Name": "TestDrive",
+      "Type": "Sitecore.HabitatHome.Feature.MarketingAutomation.Facets.TestDrive"
+    }
+  ]
+}
