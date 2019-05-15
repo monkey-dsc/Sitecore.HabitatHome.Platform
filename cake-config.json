@@ -3,7 +3,7 @@
     "XConnectRoot": "C:\\Inetpub\\wwwroot\\jss.demo.xconnect\\",
     "InstanceUrl": "https://habitathome.dev.local/",
     "SolutionName": "HabitatHome.sln",
-    "ProjectFolder": "D:\\PROJEKTE\\Sitecore\\Sitecore.HabitatHome.Platform",
+    "ProjectFolder": "D:\\PROJEKTE\\Sitecore.HabitatHome",
     "BuildConfiguration": "Debug",
     "BuildToolVersions": "VS2017",
     "RunCleanBuilds": false,

@@ -1,2 +1,0 @@
-# Sitecore.HabitatHome.Feature.MarketingAutomation
-
